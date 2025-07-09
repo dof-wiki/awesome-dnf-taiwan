@@ -23,7 +23,11 @@
 - [dnf-client-public](https://github.com/onlyGuo/dnf-client-public) - electron 开发的带有公告和自动更新功能的台服地下城登陆器客户端
 - [DFToys](https://github.com/differentrain/DFToys) - C# 开发的登陆器，带有一些辅助功能
 
+PVF修改工具
+- [pvftools](https://github.com/dof-dev/pvftools) - 基于 webview 开发的 pvf 修改工具，需配置 PVFUtility 使用
+
 ### 开发库和Demo
 - [PyDnfEx](https://github.com/HsOjo/PyDnfEx) - python NPK 提取库
 - [pvf](https://github.com/similing4/pvf) - C# 实现的 pvf 解析源码
 - [nut-function-extension|gitee](https://gitee.com/sunstar59/nut-function-extension) - nut 函数拓展范例
+- [godof](https://github.com/dof-dev/godof) - go 语言的工具集，包括 pvf 文件解码，内容解析，npk 文件解码等功能
